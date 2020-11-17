@@ -1,6 +1,7 @@
 # KNU EE 2017117986 이근정
-## 1. 요약문: 1) 수강한 SW과목에서의 코딩을 수록하였습니다. 추가로 개인적으로 공부하였던 C++, VERILOG HDL 코딩 자료도 수록하였습니다. (C, C++, assembly language, matlab, verilog 등)
-##            - 여러가지 tool(cadence virtuoso, vhdl, ltspice, synopsys design tool 등)을 사용한 회로 설계에 대한 자료를 수록하였습니다. 일부 설계는 HDL을 통한 코딩으로 설계합니다.
+## 1. 요약문: 
+## 1) 수강한 SW과목에서의 코딩을 수록하였습니다. 추가로 개인적으로 공부하였던 C++, VERILOG HDL 코딩 자료도 수록하였습니다. (C, C++, assembly language, matlab, verilog 등)
+## 2) 여러가지 tool(cadence virtuoso, vhdl, ltspice, synopsys design tool 등)을 사용한 회로 설계에 대한 자료를 수록하였습니다. 일부 설계는 HDL을 통한 코딩으로 설계합니다.
 
 ## 2. 교과목형
 1) [ELEC211 / 기초전자실험및설계 / 2019년도 / 1학기 / 송재원](https://github.com/LEE-GEUN-JEONG/ELEC211-Basic_electronic_experiment_and_design)
