@@ -6,6 +6,7 @@
 2) [ELEC323 / 마이크로프로세서 / 2019년도 / 1학기 / 김종화](https://github.com/LEE-GEUN-JEONG/ELEC323-Microprocessor)
 3) [ITEC201 / 컴퓨터학개론 / 2019년도 / 1학기 / 박정훈](https://github.com/LEE-GEUN-JEONG/ITEC201-Computer_Science)
 4) [COMP311 / 논리회로설계 / 2019년도 / 여름학기 / 김찬용](https://github.com/LEE-GEUN-JEONG/COMP311-Logic_Circuit_Design)
+5) [EECS324 / 전자회로설계 / 2019년도 / 2학기 / 정연배](https://github.com/LEE-GEUN-JEONG/EECS324-Electronic_Circuit_Design)
 5) [STAT452 / 수치해석 / 2019년도 / 2학기 / 김호희](https://github.com/LEE-GEUN-JEONG/STAT452-Numerical_Analysis)
 6) [COMP411 / 컴퓨터구조 / 2020년도 / 2학기 / 문병인]
 7) [COME301 / 이산수학 / 2020년도 / 2학기 / 김진욱]
