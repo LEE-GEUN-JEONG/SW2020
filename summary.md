@@ -7,13 +7,17 @@
 3) [ITEC201 / 컴퓨터학개론 / 2019년도 / 1학기 / 박정훈](https://github.com/LEE-GEUN-JEONG/ITEC201-Computer_Science)
 4) [COMP311 / 논리회로설계 / 2019년도 / 여름학기 / 김찬용](https://github.com/LEE-GEUN-JEONG/COMP311-Logic_Circuit_Design)
 5) [EECS324 / 전자회로설계 / 2019년도 / 2학기 / 정연배](https://github.com/LEE-GEUN-JEONG/EECS324-Electronic_Circuit_Design)
-5) [STAT452 / 수치해석 / 2019년도 / 2학기 / 김호희](https://github.com/LEE-GEUN-JEONG/STAT452-Numerical_Analysis)
+6) [STAT452 / 수치해석 / 2019년도 / 2학기 / 김호희](https://github.com/LEE-GEUN-JEONG/STAT452-Numerical_Analysis)
+7) [ITEC401 / 종합설계프로젝트1 / 2020년도 / 1학기 / 심재훈](https://github.com/LEE-GEUN-JEONG/ITEC401-Capstone_Design1) 
 6) [COMP411 / 컴퓨터구조 / 2020년도 / 2학기 / 문병인]
 7) [COME301 / 이산수학 / 2020년도 / 2학기 / 김진욱]
 
 ## 3. 자율과제형 
 [수행기간 : 2020년 1월 ~ 2020년 2월
 과제명 : C++ 코딩](https://github.com/LEE-GEUN-JEONG/C_Programming)
+
+[수행기간 : 2020년
+과제명 : Verilog HDL](https://github.com/LEE-GEUN-JEONG/Verilog_HDL)
 
 ## 4. 상세설명
 본 과제의 상세한 설명은 README 파일에 정리하였음.
