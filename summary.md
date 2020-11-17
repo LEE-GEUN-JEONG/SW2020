@@ -1,12 +1,13 @@
 # KNU EE 2017117986 이근정
 ## 1. 요약문: 
-## 1) 수강한 SW과목에서의 코딩을 수록하였습니다. 추가로 개인적으로 공부하였던 C++, VERILOG HDL 코딩 자료도 수록하였습니다. (C, C++, assembly language, matlab, verilog 등)
+## 1) 수강한 SW과목에서의 코딩을 수록하였습니다. 추가로 개인적으로 공부하였던 C++, VERILOG HDL 코딩 자료도 수록하였습니다. (C, C++, assembly language, html, matlab, verilog 등)
 ## 2) 여러가지 tool(cadence virtuoso, vhdl, ltspice, synopsys design tool 등)을 사용한 회로 설계에 대한 자료를 수록하였습니다. 일부 설계는 HDL을 통한 코딩으로 설계합니다.
 
 ## 2. 교과목형
 1) [ELEC211 / 기초전자실험및설계 / 2019년도 / 1학기 / 송재원](https://github.com/LEE-GEUN-JEONG/ELEC211-Basic_electronic_experiment_and_design)
 2) [ELEC323 / 마이크로프로세서 / 2019년도 / 1학기 / 김종화](https://github.com/LEE-GEUN-JEONG/ELEC323-Microprocessor)
 3) [ITEC201 / 컴퓨터학개론 / 2019년도 / 1학기 / 박정훈](https://github.com/LEE-GEUN-JEONG/ITEC201-Computer_Science)
+4) [ELEC246 / 전자회로2 / 2019년도 / 1학기 / 유상대](https://github.com/LEE-GEUN-JEONG/ELEC246-Electronic_Circuit)
 4) [COMP311 / 논리회로설계 / 2019년도 / 여름학기 / 김찬용](https://github.com/LEE-GEUN-JEONG/COMP311-Logic_Circuit_Design)
 5) [EECS324 / 전자회로설계 / 2019년도 / 2학기 / 정연배](https://github.com/LEE-GEUN-JEONG/EECS324-Electronic_Circuit_Design)
 6) [STAT452 / 수치해석 / 2019년도 / 2학기 / 김호희](https://github.com/LEE-GEUN-JEONG/STAT452-Numerical_Analysis)
