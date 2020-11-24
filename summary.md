@@ -28,6 +28,7 @@
 
 #### 수행기간 : 2020년
 #### 과제명 : [Verilog HDL](https://github.com/LEE-GEUN-JEONG/Verilog_HDL)
+#### 특이사항 : IDEC Verilog 강의 다수 수료
 
 ## 4. 상세설명
 - 크게 SW와 HW 두 가지 항목에 대한 개인적인 자료들을 공유하였음.
